@@ -1,0 +1,14 @@
+# deps
+node_modules
+
+# prod
+build
+
+# log
+*.log
+
+
+# misc
+.env
+config.js
+.vscode
